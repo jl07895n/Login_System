@@ -1,0 +1,9 @@
+anna 1
+arthur 2
+john 3
+jordan 4
+banana 5
+jason 6
+power 5
+1 2
+johnny  3
